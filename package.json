@@ -1,0 +1,8 @@
+{
+  "name": "crichub",
+  "version": "2.0.0",
+  "description": "CRICHUB multiplayer IPL auction - realtime server (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
